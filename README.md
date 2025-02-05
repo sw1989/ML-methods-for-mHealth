@@ -3,7 +3,7 @@ This is repository for the paper 'Machine learning methods to personalize persua
 
 Please find the data set consisting of the screened papers together with the reason for exclusion in the file 'Data ASReview'.
 
-To cite the paper:
+To cite the paper: \\
 @Article{info:doi/10.2196/47774,
 author="Brons, Annette
 and Wang, Shihan
